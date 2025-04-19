@@ -47,8 +47,8 @@ list_sq=[[sq48,sq12,sq13,sq14,sq86],[sq9,sq0,sq3,sq6,sq15],[sq10,sq1,sq4,sq7,sq1
 
 check_lis=[[1,4],[2,4],[3,4],[4,1],[4,2],[4,3]]
 
-mute=pygame.image.load('noun-mute.png')
-unmute=pygame.image.load('mute.png')
+mute=pygame.image.load('assets/noun-mute.png')
+unmute=pygame.image.load('assets/mute.png')
 
 FONT_B='Pixeboy-z8XGD.ttf'
 

@@ -19,7 +19,7 @@ def colorbyclick(event):
 pygame.mixer.init()
 pygame.init() 
 game_board=pygame.display.set_mode((700, 700)) 
-programIcon = pygame.image.load('icon.png')
+programIcon = pygame.image.load('assets/icon.png')
 pygame.display.set_icon(programIcon)
 pygame.display.set_caption('Six Ships!')
 game_board.fill(dark_blue)
