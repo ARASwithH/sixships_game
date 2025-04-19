@@ -18,16 +18,17 @@
 
 ```
 sixships_game/
+└── assets/
+  ├── mainmusic.mp3       # Background music
+  ├── move2.wav           # Movement sound effect
+  ├── win1.wav            # Victory sound effect
+  ├── icon.png            # Game icon
+  ├── mute.png            # Mute button icon
+  ├── noun-mute.png       # Alternate mute icon
+  └── Pixeboy-z8XGD.ttf   # Pixel-style font
 ├── Six Ships!.py       # Main game script
 ├── functions.py        # Game logic and helper functions
 ├── valuable.py         # Game constants and configurations
-├── mainmusic.mp3       # Background music
-├── move2.wav           # Movement sound effect
-├── win1.wav            # Victory sound effect
-├── icon.png            # Game icon
-├── mute.png            # Mute button icon
-├── noun-mute.png       # Alternate mute icon
-├── Pixeboy-z8XGD.ttf   # Pixel-style font
 └── __pycache__/        # Compiled Python files
 ```
 
